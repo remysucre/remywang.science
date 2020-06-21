@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/remysucre/remysucre.github.io.git
 	branch = master
+[submodule "themes/foghorn"]
+	path = themes/foghorn
+	url = git@github.com:remysucre/foghorn.git
