@@ -1,0 +1,4 @@
+baseURL = "remysucre.github.io"
+languageCode = "en-us"
+title = "Remy Wang"
+theme = "foghorn"

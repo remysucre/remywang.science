@@ -1,0 +1,4 @@
+[submodule "remysucre.github.io"]
+	path = public
+	url = https://github.com/remysucre/remysucre.github.io.git
+	branch = master
